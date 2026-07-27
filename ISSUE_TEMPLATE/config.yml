@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: General Support
+    url: https://bitbysoft.com/contact
+    about: Contact the BitBySoft team.
+
+  - name: Security Report
+    url: mailto:security@bitbysoft.com
+    about: Report security vulnerabilities privately.
+
+  - name: Website
+    url: https://bitbysoft.com
+    about: Visit our official website.
